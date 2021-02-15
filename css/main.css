@@ -258,7 +258,7 @@ nav {
 
 /* Utility classes for positioning content ----------------------------------- */
 .padding-left-1 {
-  padding-left: 1rem !important;
+  padding-left: 0rem !important;
 }
 
 .padding-left-2 {
