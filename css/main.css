@@ -334,7 +334,7 @@ h3:after {
 
 /* Format the footer ---------------------------------------------------------- */
 footer {
-  padding-bottom: 2rem;
+  padding-bottom: 0rem;
 }
 
 /* Format the social-professional network icons ------------------------------ */
@@ -358,7 +358,7 @@ footer {
 
 /* Projects page --------------------------------------------------------- */
 #projects .panel {
-  margin-left: 2rem;
+  margin-left: 0rem;
 }
 
 #projects .panel-default {
